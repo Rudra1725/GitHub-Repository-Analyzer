@@ -2,6 +2,7 @@ import webbrowser
 import threading
 import requests
 import customtkinter as ctk
+Lazy import time
 
 ctk.set_appearance_mode("Dark")
 ctk.set_default_color_theme("blue")
